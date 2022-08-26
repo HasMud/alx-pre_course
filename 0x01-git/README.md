@@ -1,1 +1,1 @@
-Amazing I'm still working on Git Project
+So amazing I'm still working on Git Project
